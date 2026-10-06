@@ -1,0 +1,37 @@
+img{
+    width:400px;
+}
+body{
+    background-image: url('minecraft world loading.png');
+    text-align: center;
+    font-family:VT323, monospace;
+    color:white;
+}
+.about{
+    font-size: 30px;
+    font-weight: bold;
+}
+.personal{
+    font-size:30px;
+    font-weight:bold;
+}
+title{
+    font-weight:bold;
+
+}
+.favourite{
+    font-size:30px;
+    font-weight:bold;
+}
+.servers{
+    font-size:30px;
+    font-weight:bold;
+}
+.builds{
+    font-size:30px;
+    font-weight:bold;
+}
+.pvp{
+    font-size:30px;
+    font-weight:bold;
+}
